@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1>Hi, I'm Benjah!</h1>
+<h3>
+<a href="https://github.com/benjah05">Computer Science major at UR-CST</a> <br/> <a href="www.linkedin.com/in/benjamine-senzele-54335a28b">ALX learner</a> <br/><a href="www.linkedin.com/in/benjamine-senzele-54335a28b">Education Reform Advocate</a></h1>
+</h3>
 
-<!--
-**benjah05/benjah05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Coding Projects: </h2>
 
-Here are some ideas to get you started:
+  - [Hangman Game](https://github.com/benjah05/Hangman-game-Python-)
+  - [Simple Slot Machine](https://github.com/benjah05/Hangman-game-Python-)
+  
+<h2>Conceptualization Projects: </h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  - [e-SANGE](https://docs.google.com/presentation/d/19ePCaPnshBCRwliAev_lPmEHiLf9rR_V5GxPfMMZymo/edit?usp=sharing)
+  - [Future of Work and Education](https://youngaworld.com/youthdelegate/)
+
+    
+<h2>Certifications</h2>
+
+- [Hour of Code](https://studio.code.org/c/2140190002)
+- [YOUNGA 2023 delegate](https://drive.google.com/file/d/1kQjaDX3JF5Zy3Uy3Gtab_1_wZukRAipZ/view)
+
+<h4> Let's Connect </h4>
+
+[<img align="left" alt="Benjah | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Benjah | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+
+[instagram]: https://www.instagram.com/_senzele_/
+[linkedin]: www.linkedin.com/in/benjamine-senzele-54335a28b
+
