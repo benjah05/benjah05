@@ -14,10 +14,11 @@
   - [Future of Work and Education](https://youngaworld.com/youthdelegate/)
 
     
-<h2>Certifications</h2>
+<h2>Achievements</h2>
 
 - [Hour of Code](https://studio.code.org/c/2140190002)
 - [YOUNGA 2023 delegate](https://drive.google.com/file/d/1kQjaDX3JF5Zy3Uy3Gtab_1_wZukRAipZ/view)
+- [CISCO Python Essentials 1](https://skillsforall.com/profile?tab=badges)
 
 <h4> Let's Connect </h4>
 
